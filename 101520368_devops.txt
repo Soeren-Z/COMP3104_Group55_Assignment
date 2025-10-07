@@ -3,3 +3,8 @@ needs for the workplace. This knowledge aims to ensure that the students brings 
 increase productivity in a workplace environment. This course has students analyze and evaluate developer operation
 implementations available and implement hands on work using industry standard tools. Students will create solutions
 to complex business problems by adhering to core principles and responsibilities of DevOps.
+
+The outcomes of this course have the students reliably demonstrate the ability to analyze and utilize version
+control systems workflows, make well informed architectural decisions for software, demonstrate knowledge critical
+to DevOps technique like continuous integration/development, and ensure effective collaboration on software
+projects. Ultimately this course aims to have students learn to be effective DevOps engineers.
