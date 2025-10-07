@@ -5,4 +5,6 @@ both of a mundane or complex nature, enforce best security practices, expedite p
 communication and collaboration across teams. This allows DevOps to bring a culture focused on cohesion of
 autonomous teams to fast paced and high demanding environments.
 
-This creates a build pipeline that bridges the gap between development and operations by automating the building, testing, and deployment of application. This is very important for the software development life cycle as it allows for continuous development and integration.
+This creates a build pipeline that bridges the gap between development and operations by automating the building,
+testing, and deployment of application. This is very important for the software development life cycle as it allows
+for continuous development and integration.
