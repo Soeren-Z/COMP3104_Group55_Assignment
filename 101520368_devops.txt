@@ -1,0 +1,5 @@
+COMP 3104 focuses on teaching students the proper procedures, protocols and best practices that a DevOps engineer
+needs for the workplace. This knowledge aims to ensure that the students brings relevant knowledge that can
+increase productivity in a workplace environment. This course has students analyze and evaluate developer operation
+implementations available and implement hands on work using industry standard tools. Students will create solutions
+to complex business problems by adhering to core principles and responsibilities of DevOps.
