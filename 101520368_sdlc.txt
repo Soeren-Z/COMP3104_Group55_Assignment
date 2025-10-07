@@ -1,1 +1,8 @@
-DevOps is a combination of software and information technology operations that enables businesses to deliver applications at a faster pace. It bring together development and operation teams so there are fewer redundancies in the software development process. DevOps allows business to drastically reduce IT overhead, remove manual tasks both of a mundane or complex nature, enforce best security practices, expedite product delivery, and improve communication and collaboration across teams. This allows DevOps to bring a culture focused on cohesion of autonomous teams to fast paced and high demanding environments.
+DevOps is a combination of software and information technology operations that enables businesses to deliver
+applications at a faster pace. It bring together development and operation teams so there are fewer redundancies in
+the software development process. DevOps allows business to drastically reduce IT overhead, remove manual tasks
+both of a mundane or complex nature, enforce best security practices, expedite product delivery, and improve
+communication and collaboration across teams. This allows DevOps to bring a culture focused on cohesion of
+autonomous teams to fast paced and high demanding environments.
+
+This creates a build pipeline that bridges the gap between development and operations by automating the building, testing, and deployment of application. This is very important for the software development life cycle as it allows for continuous development and integration.
