@@ -1,3 +1,4 @@
 COMP2156 DevOps introduces version control, automation, and CI/CD pipelines. Students learn how to use GitHub Actions and collaborate on shared codebases efficiently.
 COMP2156 DevOps course covers version control, continuous integration, continuous deployment, and automation tools.
 The course also teaches students about CI/CD pipelines using GitHub Actions to automate testing and deployment.
+Students also learn about automation tools like Jenkins, Docker, and Ansible to streamline development workflows.
