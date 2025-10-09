@@ -1,7 +1,7 @@
 # COMP3104_Group55_Assignment
 
 ## Group Members
--**Leader:** Harrison Pape (101520368) - [GitHub](https://github.com/Soeren-Z)
+-**Leader:** Harrison Pape (101520368) - [GitHub](https://github.com/Soeren-Z)  
 -**Member:** Amelework Murti (101378582) - [GitHub](https://github.com/AmeleworkMurti)
 
 ## Project Description
