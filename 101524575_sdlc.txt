@@ -1,0 +1,5 @@
+101524575 | Woohyuk (Harry) Song 
+
+Learning DevOps is crucial in the software development cycle because it streamlines teamwork between developers and IT operations, resulting in faster and more reliable software deployments. 
+Through the use of DevOps practices like continuous integration and automated testing, teams can catch problems early and deliver updates efficiently. 
+DevOps also encourages the use of cloud tools and version control, which reduce risks and improve scalability, at the same time equipping students with practical skills that directly impact product quality.

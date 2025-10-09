@@ -1,0 +1,5 @@
+101524575 | Woohyuk (Harry) Song
+
+COMP3104 (DevOps) is a course at George Brown College that introduces students to the essential practices and tools used by modern DevOps engineers. 
+Through a mix of lectures, hands-on labs, and relevant assignments, students learn about continuous integration, deployment strategies, version control workflows, and cloud computing platforms. 
+The curriculum covers both technical skills like automating deployment pipelines and collaboration techniques for effective teamwork. 
