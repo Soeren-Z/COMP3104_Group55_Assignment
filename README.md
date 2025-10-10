@@ -15,3 +15,5 @@ This repository is used to host the group assignment for COMP 3104 DevOps. This 
 This project uses GitHub Actions to automatically check the repository after each push to ensure code is operational.
 
 ## Branching Strategy
+Our group follows a per developer branching strategy, where each member works on their own individual branch rather than sharing one. This approach helps 
+prevent merge conflicts, keeps the main branch stable, and makes it easier to track each member’s individual contributions.
